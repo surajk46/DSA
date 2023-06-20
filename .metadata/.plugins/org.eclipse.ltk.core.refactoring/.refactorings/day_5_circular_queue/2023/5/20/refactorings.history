@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;day_5_circular_queue&apos; to &apos;circular_queue_int&apos;&#x0D;&#x0A;- Original project: &apos;day_5_circular_queue&apos;&#x0D;&#x0A;- Original element: &apos;day_5_circular_queue/src/day_5_circular_queue&apos;&#x0D;&#x0A;- Renamed element: &apos;day_5_circular_queue/src/circular_queue_int&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;day_5_circular_queue&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;day_5_circular_queue" name="circular_queue_int" qualified="false" references="true" stamp="1684127689268" textual="false" version="1.0"/>
+</session>

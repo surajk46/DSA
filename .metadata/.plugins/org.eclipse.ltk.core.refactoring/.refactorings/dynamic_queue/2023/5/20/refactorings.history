@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;dynamic_queue&apos; to &apos;dynamic_queue/src&apos;&#x0D;&#x0A;- Original project: &apos;dynamic_queue&apos;&#x0D;&#x0A;- Destination element: &apos;dynamic_queue/src&apos;&#x0D;&#x0A;- Original element: &apos;dynamic_queue/src/dynamic_queue&apos;" description="Copy package" destination="/src" element1="/src&lt;dynamic_queue" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1684558405305" version="1.0"/>
+</session>

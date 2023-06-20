@@ -1,0 +1,35 @@
+package doubly_linked_list;
+
+import java.util.Scanner;
+
+public class Demo {
+	public static void main(String[] args) {
+		DoublyLinkedList l=new DoublyLinkedList();
+		Scanner scanner=new Scanner(System.in);
+		int choice=0;
+		do {
+			System.out.println("1 : add Element ");
+			System.out.println("2 : add Element ");
+			System.out.println("3 : Display ");
+			System.out.println("4 : Display Reverce ");
+			System.out.print("Enter your Choice :  ");
+			choice=scanner.nextInt();
+			switch(choice) {
+				case 1:
+					System.out.print("Enter Element to add : ");
+					int data=scanner.nextInt();
+					l.addEle(data);
+					break;
+				case 2:
+					break;
+				case 3:
+					l.display();
+					break;
+				case 4:
+					l.printReverce();
+					break;
+			}
+		} while (choice!=0);
+		scanner.close();
+	}
+}

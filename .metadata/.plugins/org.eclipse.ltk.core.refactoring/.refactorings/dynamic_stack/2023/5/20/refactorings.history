@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;dynamic_stack&apos; to &apos;dynamic_stack1&apos;&#x0D;&#x0A;- Original project: &apos;dynamic_stack&apos;&#x0D;&#x0A;- Original element: &apos;dynamic_stack/src/dynamic_stack&apos;&#x0D;&#x0A;- Renamed element: &apos;dynamic_stack/src/dynamic_stack1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;dynamic_stack&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;dynamic_stack" name="dynamic_stack1" qualified="false" references="true" stamp="1684431410721" textual="false" version="1.0"/>
+</session>
